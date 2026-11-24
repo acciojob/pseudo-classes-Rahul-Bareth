@@ -31,6 +31,8 @@ ul li:last-child {
 	font-size: 20px;
 }
 
-ul li:nth-child(odd) {
-  background-color: white;
+ul li:nth-last-child(3) {
+  background-color: pink;
 }
+
+
